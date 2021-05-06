@@ -1,14 +1,14 @@
-Hello there!
+## Hello there!
 
 <img align="left" alt="sap" height="25px" src="/Icons/bilkent.png" /> I am a student at the Bilkent University, studying Computer Engineering! 
 
 ## You can find me on:
 
-<img align="left" alt="Email" height="25px" src="/Icons/Email1.png"/> [bilalbink1@gmail.com](mailto:bilalbink1@gmail.com)<br />
+<img align="left" alt="Email" height="25px" src="/Icons/gmail.png"/> [bilalbink1@gmail.com](mailto:bilalbink1@gmail.com)<br />
 
 <img align="left" alt="LinkedIn" height="25px" src="/Icons/LinkedIn.png"/>[LinkedIn](https://www.linkedin.com/in/bilalbink/)<br />
 
-<img align="left" alt="LinkedIn" height="25px" src="/Icons/behance.png"/>[Behance](https://www.behance.net/bilalbink/)<br />
+<img align="left" alt="LinkedIn" height="25px" src="/Icons/behance.svg"/>[Behance](https://www.behance.net/bilalbink/)<br />
 
 ## Languages and tools that I use
 
