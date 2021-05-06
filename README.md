@@ -22,6 +22,13 @@ Hello there!
 
 <img align="left" alt="Email" height="25px" src="/Icons/css.png" /> CSS3
 
+<img align="left" alt="Email" height="25px" src="/Icons/ps.png" /> Adobe Photoshop
+
+<img align="left" alt="Email" height="25px" src="/Icons/il.png" /> Adobe Illustrator
+
+<img align="left" alt="Email" height="25px" src="/Icons/xd.png" /> Adobe XD
+
+
 <img align="left" alt="Email" height="25px" src="/Icons/python3.png" /> Python
 
 <img align="left" alt="Email" height="25px" src="/Icons/git.png" /> Git
