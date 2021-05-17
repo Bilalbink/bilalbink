@@ -14,6 +14,8 @@
 
 <img align="left" alt="Email" height="25px" src="/Icons/React.png" /> React JS & Native
 
+<img align="left" alt="Email" height="25px" src="/Icons/Vue.png" /> Vue JS
+
 <img align="left" alt="Email" height="25px" src="/Icons/typescript.png" /> TypeScript
 
 <img align="left" alt="Email" height="25px" src="/Icons/javascript.png" /> Javascript
