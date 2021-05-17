@@ -38,6 +38,6 @@ Outletter: Mobile application which uses a cloud based object recognition engine
 
 Axon: URL shortening web application that allows users to create randomly generated or custom shortened URLs <img align="right" alt="Email" height="20px" src="/Icons/React.png" /> 
 
-Spotify Playlist Organizer: Web page to split a Spotify playlist into sub‑playlists according to their genres <img align="right" height="20px" src="/Icons/React.png" />
+Spotify Playlist Organizer: Web page to split a Spotify playlist into sub‑playlists according to their genres <img align="right" height="20px" src="/Icons/Vue.png" />
 
 ### Some of the projects I have worked on recently that are not subjected to copyrights are can be seen below. Other projects not listed below can be discussed as well <br />
