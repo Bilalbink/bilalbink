@@ -1,6 +1,6 @@
 ## Hello there!
 
-<img align="left" alt="sap" height="25px" src="/Icons/bilkent.png" /> I am a student at the Bilkent University, studying Computer Engineering! 
+<img align="left" alt="sap" height="25px" src="/Icons/bilkent.png" /> I am a Bilkent University Graduate with a passion for software development! 
 
 ## You can find me on:
 
