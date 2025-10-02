@@ -1,7 +1,5 @@
 ## Hello there!
 
-<img align="left" alt="sap" height="25px" src="/Icons/bilkent.png" />
-
 ## You can find me on:
 
 <img align="left" alt="Email" height="25px" src="/Icons/gmail.png"/> [bilalbink1@gmail.com](mailto:bilalbink1@gmail.com)<br />
