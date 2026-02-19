@@ -1,6 +1,6 @@
 # Hi, I'm Bilal
 
-Full-stack engineer with 4 years of experience building production-grade web applications. I've worked across the entire stack—from React and Vue frontends to Python and Node.js backends—shipping features that serve real users at scale.
+Full-stack engineer with 4 years of experience building production-grade web applications. I've worked across the entire stack, from React and Vue frontends to Python and Node.js backends.
 
 Most recently, I was the founding engineer at [Stacksync](https://stacksync.cloud) (YC W24), where I built a multi-tenant SaaS platform from the ground up that now serves over 100 paying customers.
 
